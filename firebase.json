@@ -1,0 +1,9 @@
+{
+  "firebase": "classQ1projects",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
